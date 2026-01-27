@@ -1,3 +1,2 @@
-#!/bin/bash
-
-echo "Hello World!"
+oops!
+echo "Good day, world!"
